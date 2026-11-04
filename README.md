@@ -1,4 +1,4 @@
-# e-commerce-template
+# badge-template
 
 A small starter template for e-commerce projects with a pull request workflow.
 
@@ -7,7 +7,7 @@ A small starter template for e-commerce projects with a pull request workflow.
 Click **Use this template** on GitHub, or run:
 
 ```sh
-gh repo create my-store --template nonevision/e-commerce-template --public --clone
+gh repo create my-store --template nonevision/badge-template --public --clone
 ```
 
 ## What's included
