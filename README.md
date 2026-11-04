@@ -1,13 +1,13 @@
-# badge-template
+# healthcare-product-mvp
 
-A small starter template for e-commerce projects with a pull request workflow.
+A small starter template for new projects with a pull request workflow.
 
 ## Use this template
 
 Click **Use this template** on GitHub, or run:
 
 ```sh
-gh repo create my-store --template nonevision/badge-template --public --clone
+gh repo create my-store --template nonevision/healthcare-product-mvp --public --clone
 ```
 
 ## What's included
